@@ -1,0 +1,4006 @@
+[
+    {
+        "step": 1,
+        "position": [
+            1,
+            1
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                1,
+                1
+            ],
+            "battery": 100,
+            "time_remaining": 150,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                1,
+                2
+            ],
+            "observation_after": {
+                "position": [
+                    1,
+                    2
+                ],
+                "battery": 99,
+                "time_remaining": 149,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    1,
+                    2
+                ],
+                "battery": 99,
+                "time_remaining": 149,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 2,
+        "position": [
+            1,
+            2
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                1,
+                2
+            ],
+            "battery": 99,
+            "time_remaining": 149,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                1,
+                3
+            ],
+            "observation_after": {
+                "position": [
+                    1,
+                    3
+                ],
+                "battery": 98,
+                "time_remaining": 148,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    1,
+                    3
+                ],
+                "battery": 98,
+                "time_remaining": 148,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 3,
+        "position": [
+            1,
+            3
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                1,
+                3
+            ],
+            "battery": 98,
+            "time_remaining": 148,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                1,
+                4
+            ],
+            "observation_after": {
+                "position": [
+                    1,
+                    4
+                ],
+                "battery": 97,
+                "time_remaining": 147,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    1,
+                    4
+                ],
+                "battery": 97,
+                "time_remaining": 147,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 4,
+        "position": [
+            1,
+            4
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "west",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                1,
+                4
+            ],
+            "battery": 97,
+            "time_remaining": 147,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                0,
+                4
+            ],
+            "observation_after": {
+                "position": [
+                    0,
+                    4
+                ],
+                "battery": 96,
+                "time_remaining": 146,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    0,
+                    4
+                ],
+                "battery": 96,
+                "time_remaining": 146,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 5,
+        "position": [
+            0,
+            4
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                0,
+                4
+            ],
+            "battery": 96,
+            "time_remaining": 146,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                0,
+                5
+            ],
+            "observation_after": {
+                "position": [
+                    0,
+                    5
+                ],
+                "battery": 95,
+                "time_remaining": 145,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    0,
+                    5
+                ],
+                "battery": 95,
+                "time_remaining": 145,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 6,
+        "position": [
+            0,
+            5
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                0,
+                5
+            ],
+            "battery": 95,
+            "time_remaining": 145,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                0,
+                6
+            ],
+            "observation_after": {
+                "position": [
+                    0,
+                    6
+                ],
+                "battery": 94,
+                "time_remaining": 144,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    0,
+                    6
+                ],
+                "battery": 94,
+                "time_remaining": 144,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 7,
+        "position": [
+            0,
+            6
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                0,
+                6
+            ],
+            "battery": 94,
+            "time_remaining": 144,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                0,
+                7
+            ],
+            "observation_after": {
+                "position": [
+                    0,
+                    7
+                ],
+                "battery": 93,
+                "time_remaining": 143,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    0,
+                    7
+                ],
+                "battery": 93,
+                "time_remaining": 143,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 8,
+        "position": [
+            0,
+            7
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                0,
+                7
+            ],
+            "battery": 93,
+            "time_remaining": 143,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                0,
+                8
+            ],
+            "observation_after": {
+                "position": [
+                    0,
+                    8
+                ],
+                "battery": 92,
+                "time_remaining": 142,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    0,
+                    8
+                ],
+                "battery": 92,
+                "time_remaining": 142,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 9,
+        "position": [
+            0,
+            8
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                0,
+                8
+            ],
+            "battery": 92,
+            "time_remaining": 142,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                0,
+                9
+            ],
+            "observation_after": {
+                "position": [
+                    0,
+                    9
+                ],
+                "battery": 91,
+                "time_remaining": 141,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    0,
+                    9
+                ],
+                "battery": 91,
+                "time_remaining": 141,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 10,
+        "position": [
+            0,
+            9
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                0,
+                9
+            ],
+            "battery": 91,
+            "time_remaining": 141,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                1,
+                9
+            ],
+            "observation_after": {
+                "position": [
+                    1,
+                    9
+                ],
+                "battery": 90,
+                "time_remaining": 140,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    1,
+                    9
+                ],
+                "battery": 90,
+                "time_remaining": 140,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 11,
+        "position": [
+            1,
+            9
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                1,
+                9
+            ],
+            "battery": 90,
+            "time_remaining": 140,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                1,
+                8
+            ],
+            "observation_after": {
+                "position": [
+                    1,
+                    8
+                ],
+                "battery": 89,
+                "time_remaining": 139,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    1,
+                    8
+                ],
+                "battery": 89,
+                "time_remaining": 139,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 12,
+        "position": [
+            1,
+            8
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                1,
+                8
+            ],
+            "battery": 89,
+            "time_remaining": 139,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                1,
+                7
+            ],
+            "observation_after": {
+                "position": [
+                    1,
+                    7
+                ],
+                "battery": 88,
+                "time_remaining": 138,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    1,
+                    7
+                ],
+                "battery": 88,
+                "time_remaining": 138,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 13,
+        "position": [
+            1,
+            7
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                1,
+                7
+            ],
+            "battery": 88,
+            "time_remaining": 138,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                1,
+                6
+            ],
+            "observation_after": {
+                "position": [
+                    1,
+                    6
+                ],
+                "battery": 87,
+                "time_remaining": 137,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    1,
+                    6
+                ],
+                "battery": 87,
+                "time_remaining": 137,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 14,
+        "position": [
+            1,
+            6
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                1,
+                6
+            ],
+            "battery": 87,
+            "time_remaining": 137,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                1,
+                5
+            ],
+            "observation_after": {
+                "position": [
+                    1,
+                    5
+                ],
+                "battery": 86,
+                "time_remaining": 136,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    1,
+                    5
+                ],
+                "battery": 86,
+                "time_remaining": 136,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 15,
+        "position": [
+            1,
+            5
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                1,
+                5
+            ],
+            "battery": 86,
+            "time_remaining": 136,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                2,
+                5
+            ],
+            "observation_after": {
+                "position": [
+                    2,
+                    5
+                ],
+                "battery": 85,
+                "time_remaining": 135,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    2,
+                    5
+                ],
+                "battery": 85,
+                "time_remaining": 135,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 16,
+        "position": [
+            2,
+            5
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                2,
+                5
+            ],
+            "battery": 85,
+            "time_remaining": 135,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                2,
+                4
+            ],
+            "observation_after": {
+                "position": [
+                    2,
+                    4
+                ],
+                "battery": 84,
+                "time_remaining": 134,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    2,
+                    4
+                ],
+                "battery": 84,
+                "time_remaining": 134,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 17,
+        "position": [
+            2,
+            4
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                2,
+                4
+            ],
+            "battery": 84,
+            "time_remaining": 134,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                2,
+                5
+            ],
+            "observation_after": {
+                "position": [
+                    2,
+                    5
+                ],
+                "battery": 83,
+                "time_remaining": 133,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    2,
+                    5
+                ],
+                "battery": 83,
+                "time_remaining": 133,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 18,
+        "position": [
+            2,
+            5
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                2,
+                5
+            ],
+            "battery": 83,
+            "time_remaining": 133,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                2,
+                6
+            ],
+            "observation_after": {
+                "position": [
+                    2,
+                    6
+                ],
+                "battery": 82,
+                "time_remaining": 132,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    2,
+                    6
+                ],
+                "battery": 82,
+                "time_remaining": 132,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 19,
+        "position": [
+            2,
+            6
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                2,
+                6
+            ],
+            "battery": 82,
+            "time_remaining": 132,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                3,
+                6
+            ],
+            "observation_after": {
+                "position": [
+                    3,
+                    6
+                ],
+                "battery": 81,
+                "time_remaining": 131,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    3,
+                    6
+                ],
+                "battery": 81,
+                "time_remaining": 131,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 20,
+        "position": [
+            3,
+            6
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                3,
+                6
+            ],
+            "battery": 81,
+            "time_remaining": 131,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                3,
+                5
+            ],
+            "observation_after": {
+                "position": [
+                    3,
+                    5
+                ],
+                "battery": 80,
+                "time_remaining": 130,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    3,
+                    5
+                ],
+                "battery": 80,
+                "time_remaining": 130,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 21,
+        "position": [
+            3,
+            5
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                3,
+                5
+            ],
+            "battery": 80,
+            "time_remaining": 130,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                4,
+                5
+            ],
+            "observation_after": {
+                "position": [
+                    4,
+                    5
+                ],
+                "battery": 79,
+                "time_remaining": 129,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    4,
+                    5
+                ],
+                "battery": 79,
+                "time_remaining": 129,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 22,
+        "position": [
+            4,
+            5
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                4,
+                5
+            ],
+            "battery": 79,
+            "time_remaining": 129,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                4,
+                4
+            ],
+            "observation_after": {
+                "position": [
+                    4,
+                    4
+                ],
+                "battery": 78,
+                "time_remaining": 128,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    4,
+                    4
+                ],
+                "battery": 78,
+                "time_remaining": 128,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 23,
+        "position": [
+            4,
+            4
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                4,
+                4
+            ],
+            "battery": 78,
+            "time_remaining": 128,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                4,
+                3
+            ],
+            "observation_after": {
+                "position": [
+                    4,
+                    3
+                ],
+                "battery": 77,
+                "time_remaining": 127,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    4,
+                    3
+                ],
+                "battery": 77,
+                "time_remaining": 127,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 24,
+        "position": [
+            4,
+            3
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                4,
+                3
+            ],
+            "battery": 77,
+            "time_remaining": 127,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                4,
+                2
+            ],
+            "observation_after": {
+                "position": [
+                    4,
+                    2
+                ],
+                "battery": 76,
+                "time_remaining": 126,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    4,
+                    2
+                ],
+                "battery": 76,
+                "time_remaining": 126,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 25,
+        "position": [
+            4,
+            2
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                4,
+                2
+            ],
+            "battery": 76,
+            "time_remaining": 126,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                5,
+                2
+            ],
+            "observation_after": {
+                "position": [
+                    5,
+                    2
+                ],
+                "battery": 75,
+                "time_remaining": 125,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    5,
+                    2
+                ],
+                "battery": 75,
+                "time_remaining": 125,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 26,
+        "position": [
+            5,
+            2
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                5,
+                2
+            ],
+            "battery": 75,
+            "time_remaining": 125,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                5,
+                1
+            ],
+            "observation_after": {
+                "position": [
+                    5,
+                    1
+                ],
+                "battery": 74,
+                "time_remaining": 124,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    5,
+                    1
+                ],
+                "battery": 74,
+                "time_remaining": 124,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 27,
+        "position": [
+            5,
+            1
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                5,
+                1
+            ],
+            "battery": 74,
+            "time_remaining": 124,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                5,
+                0
+            ],
+            "observation_after": {
+                "position": [
+                    5,
+                    0
+                ],
+                "battery": 73,
+                "time_remaining": 123,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    5,
+                    0
+                ],
+                "battery": 73,
+                "time_remaining": 123,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 28,
+        "position": [
+            5,
+            0
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "west",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                5,
+                0
+            ],
+            "battery": 73,
+            "time_remaining": 123,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                4,
+                0
+            ],
+            "observation_after": {
+                "position": [
+                    4,
+                    0
+                ],
+                "battery": 72,
+                "time_remaining": 122,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    4,
+                    0
+                ],
+                "battery": 72,
+                "time_remaining": 122,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 29,
+        "position": [
+            4,
+            0
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                4,
+                0
+            ],
+            "battery": 72,
+            "time_remaining": 122,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                5,
+                0
+            ],
+            "observation_after": {
+                "position": [
+                    5,
+                    0
+                ],
+                "battery": 71,
+                "time_remaining": 121,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    5,
+                    0
+                ],
+                "battery": 71,
+                "time_remaining": 121,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 30,
+        "position": [
+            5,
+            0
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                5,
+                0
+            ],
+            "battery": 71,
+            "time_remaining": 121,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                6,
+                0
+            ],
+            "observation_after": {
+                "position": [
+                    6,
+                    0
+                ],
+                "battery": 70,
+                "time_remaining": 120,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    6,
+                    0
+                ],
+                "battery": 70,
+                "time_remaining": 120,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 31,
+        "position": [
+            6,
+            0
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                6,
+                0
+            ],
+            "battery": 70,
+            "time_remaining": 120,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                6,
+                1
+            ],
+            "observation_after": {
+                "position": [
+                    6,
+                    1
+                ],
+                "battery": 69,
+                "time_remaining": 119,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    6,
+                    1
+                ],
+                "battery": 69,
+                "time_remaining": 119,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 32,
+        "position": [
+            6,
+            1
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                6,
+                1
+            ],
+            "battery": 69,
+            "time_remaining": 119,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                6,
+                2
+            ],
+            "observation_after": {
+                "position": [
+                    6,
+                    2
+                ],
+                "battery": 68,
+                "time_remaining": 118,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    6,
+                    2
+                ],
+                "battery": 68,
+                "time_remaining": 118,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 33,
+        "position": [
+            6,
+            2
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                6,
+                2
+            ],
+            "battery": 68,
+            "time_remaining": 118,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                6,
+                3
+            ],
+            "observation_after": {
+                "position": [
+                    6,
+                    3
+                ],
+                "battery": 67,
+                "time_remaining": 117,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    6,
+                    3
+                ],
+                "battery": 67,
+                "time_remaining": 117,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 34,
+        "position": [
+            6,
+            3
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "west",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                6,
+                3
+            ],
+            "battery": 67,
+            "time_remaining": 117,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                5,
+                3
+            ],
+            "observation_after": {
+                "position": [
+                    5,
+                    3
+                ],
+                "battery": 66,
+                "time_remaining": 116,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    5,
+                    3
+                ],
+                "battery": 66,
+                "time_remaining": 116,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 35,
+        "position": [
+            5,
+            3
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                5,
+                3
+            ],
+            "battery": 66,
+            "time_remaining": 116,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                5,
+                4
+            ],
+            "observation_after": {
+                "position": [
+                    5,
+                    4
+                ],
+                "battery": 65,
+                "time_remaining": 115,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    5,
+                    4
+                ],
+                "battery": 65,
+                "time_remaining": 115,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 36,
+        "position": [
+            5,
+            4
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                5,
+                4
+            ],
+            "battery": 65,
+            "time_remaining": 115,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                6,
+                4
+            ],
+            "observation_after": {
+                "position": [
+                    6,
+                    4
+                ],
+                "battery": 64,
+                "time_remaining": 114,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    6,
+                    4
+                ],
+                "battery": 64,
+                "time_remaining": 114,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 37,
+        "position": [
+            6,
+            4
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                6,
+                4
+            ],
+            "battery": 64,
+            "time_remaining": 114,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                7,
+                4
+            ],
+            "observation_after": {
+                "position": [
+                    7,
+                    4
+                ],
+                "battery": 63,
+                "time_remaining": 113,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    7,
+                    4
+                ],
+                "battery": 63,
+                "time_remaining": 113,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 38,
+        "position": [
+            7,
+            4
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                7,
+                4
+            ],
+            "battery": 63,
+            "time_remaining": 113,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                7,
+                3
+            ],
+            "observation_after": {
+                "position": [
+                    7,
+                    3
+                ],
+                "battery": 62,
+                "time_remaining": 112,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    7,
+                    3
+                ],
+                "battery": 62,
+                "time_remaining": 112,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 39,
+        "position": [
+            7,
+            3
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                7,
+                3
+            ],
+            "battery": 62,
+            "time_remaining": 112,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                7,
+                2
+            ],
+            "observation_after": {
+                "position": [
+                    7,
+                    2
+                ],
+                "battery": 61,
+                "time_remaining": 111,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    7,
+                    2
+                ],
+                "battery": 61,
+                "time_remaining": 111,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 40,
+        "position": [
+            7,
+            2
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                7,
+                2
+            ],
+            "battery": 61,
+            "time_remaining": 111,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                7,
+                1
+            ],
+            "observation_after": {
+                "position": [
+                    7,
+                    1
+                ],
+                "battery": 60,
+                "time_remaining": 110,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    7,
+                    1
+                ],
+                "battery": 60,
+                "time_remaining": 110,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 41,
+        "position": [
+            7,
+            1
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                7,
+                1
+            ],
+            "battery": 60,
+            "time_remaining": 110,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                7,
+                0
+            ],
+            "observation_after": {
+                "position": [
+                    7,
+                    0
+                ],
+                "battery": 59,
+                "time_remaining": 109,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    7,
+                    0
+                ],
+                "battery": 59,
+                "time_remaining": 109,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 42,
+        "position": [
+            7,
+            0
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                7,
+                0
+            ],
+            "battery": 59,
+            "time_remaining": 109,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                8,
+                0
+            ],
+            "observation_after": {
+                "position": [
+                    8,
+                    0
+                ],
+                "battery": 58,
+                "time_remaining": 108,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    8,
+                    0
+                ],
+                "battery": 58,
+                "time_remaining": 108,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 43,
+        "position": [
+            8,
+            0
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                8,
+                0
+            ],
+            "battery": 58,
+            "time_remaining": 108,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                8,
+                1
+            ],
+            "observation_after": {
+                "position": [
+                    8,
+                    1
+                ],
+                "battery": 57,
+                "time_remaining": 107,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    8,
+                    1
+                ],
+                "battery": 57,
+                "time_remaining": 107,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 44,
+        "position": [
+            8,
+            1
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                8,
+                1
+            ],
+            "battery": 57,
+            "time_remaining": 107,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                8,
+                2
+            ],
+            "observation_after": {
+                "position": [
+                    8,
+                    2
+                ],
+                "battery": 56,
+                "time_remaining": 106,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    8,
+                    2
+                ],
+                "battery": 56,
+                "time_remaining": 106,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 45,
+        "position": [
+            8,
+            2
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                8,
+                2
+            ],
+            "battery": 56,
+            "time_remaining": 106,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                8,
+                3
+            ],
+            "observation_after": {
+                "position": [
+                    8,
+                    3
+                ],
+                "battery": 55,
+                "time_remaining": 105,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    8,
+                    3
+                ],
+                "battery": 55,
+                "time_remaining": 105,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 46,
+        "position": [
+            8,
+            3
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                8,
+                3
+            ],
+            "battery": 55,
+            "time_remaining": 105,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                8,
+                4
+            ],
+            "observation_after": {
+                "position": [
+                    8,
+                    4
+                ],
+                "battery": 54,
+                "time_remaining": 104,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    8,
+                    4
+                ],
+                "battery": 54,
+                "time_remaining": 104,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 47,
+        "position": [
+            8,
+            4
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                8,
+                4
+            ],
+            "battery": 54,
+            "time_remaining": 104,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                8,
+                5
+            ],
+            "observation_after": {
+                "position": [
+                    8,
+                    5
+                ],
+                "battery": 53,
+                "time_remaining": 103,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    8,
+                    5
+                ],
+                "battery": 53,
+                "time_remaining": 103,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 48,
+        "position": [
+            8,
+            5
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                8,
+                5
+            ],
+            "battery": 53,
+            "time_remaining": 103,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                8,
+                6
+            ],
+            "observation_after": {
+                "position": [
+                    8,
+                    6
+                ],
+                "battery": 52,
+                "time_remaining": 102,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    8,
+                    6
+                ],
+                "battery": 52,
+                "time_remaining": 102,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 49,
+        "position": [
+            8,
+            6
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                8,
+                6
+            ],
+            "battery": 52,
+            "time_remaining": 102,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                8,
+                7
+            ],
+            "observation_after": {
+                "position": [
+                    8,
+                    7
+                ],
+                "battery": 51,
+                "time_remaining": 101,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    8,
+                    7
+                ],
+                "battery": 51,
+                "time_remaining": 101,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 50,
+        "position": [
+            8,
+            7
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "west",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                8,
+                7
+            ],
+            "battery": 51,
+            "time_remaining": 101,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                7,
+                7
+            ],
+            "observation_after": {
+                "position": [
+                    7,
+                    7
+                ],
+                "battery": 50,
+                "time_remaining": 100,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    7,
+                    7
+                ],
+                "battery": 50,
+                "time_remaining": 100,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 51,
+        "position": [
+            7,
+            7
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "west",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                7,
+                7
+            ],
+            "battery": 50,
+            "time_remaining": 100,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                6,
+                7
+            ],
+            "observation_after": {
+                "position": [
+                    6,
+                    7
+                ],
+                "battery": 49,
+                "time_remaining": 99,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    6,
+                    7
+                ],
+                "battery": 49,
+                "time_remaining": 99,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 52,
+        "position": [
+            6,
+            7
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "west",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                6,
+                7
+            ],
+            "battery": 49,
+            "time_remaining": 99,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                5,
+                7
+            ],
+            "observation_after": {
+                "position": [
+                    5,
+                    7
+                ],
+                "battery": 48,
+                "time_remaining": 98,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    5,
+                    7
+                ],
+                "battery": 48,
+                "time_remaining": 98,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 53,
+        "position": [
+            5,
+            7
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "west",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                5,
+                7
+            ],
+            "battery": 48,
+            "time_remaining": 98,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                4,
+                7
+            ],
+            "observation_after": {
+                "position": [
+                    4,
+                    7
+                ],
+                "battery": 47,
+                "time_remaining": 97,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    4,
+                    7
+                ],
+                "battery": 47,
+                "time_remaining": 97,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 54,
+        "position": [
+            4,
+            7
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                4,
+                7
+            ],
+            "battery": 47,
+            "time_remaining": 97,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                4,
+                6
+            ],
+            "observation_after": {
+                "position": [
+                    4,
+                    6
+                ],
+                "battery": 46,
+                "time_remaining": 96,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    4,
+                    6
+                ],
+                "battery": 46,
+                "time_remaining": 96,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 55,
+        "position": [
+            4,
+            6
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                4,
+                6
+            ],
+            "battery": 46,
+            "time_remaining": 96,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                5,
+                6
+            ],
+            "observation_after": {
+                "position": [
+                    5,
+                    6
+                ],
+                "battery": 45,
+                "time_remaining": 95,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    5,
+                    6
+                ],
+                "battery": 45,
+                "time_remaining": 95,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 56,
+        "position": [
+            5,
+            6
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                5,
+                6
+            ],
+            "battery": 45,
+            "time_remaining": 95,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                6,
+                6
+            ],
+            "observation_after": {
+                "position": [
+                    6,
+                    6
+                ],
+                "battery": 44,
+                "time_remaining": 94,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    6,
+                    6
+                ],
+                "battery": 44,
+                "time_remaining": 94,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 57,
+        "position": [
+            6,
+            6
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                6,
+                6
+            ],
+            "battery": 44,
+            "time_remaining": 94,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                6,
+                7
+            ],
+            "observation_after": {
+                "position": [
+                    6,
+                    7
+                ],
+                "battery": 43,
+                "time_remaining": 93,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    6,
+                    7
+                ],
+                "battery": 43,
+                "time_remaining": 93,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 58,
+        "position": [
+            6,
+            7
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                6,
+                7
+            ],
+            "battery": 43,
+            "time_remaining": 93,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                6,
+                8
+            ],
+            "observation_after": {
+                "position": [
+                    6,
+                    8
+                ],
+                "battery": 42,
+                "time_remaining": 92,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    6,
+                    8
+                ],
+                "battery": 42,
+                "time_remaining": 92,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 59,
+        "position": [
+            6,
+            8
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "west",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                6,
+                8
+            ],
+            "battery": 42,
+            "time_remaining": 92,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                5,
+                8
+            ],
+            "observation_after": {
+                "position": [
+                    5,
+                    8
+                ],
+                "battery": 41,
+                "time_remaining": 91,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    5,
+                    8
+                ],
+                "battery": 41,
+                "time_remaining": 91,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 60,
+        "position": [
+            5,
+            8
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "west",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                5,
+                8
+            ],
+            "battery": 41,
+            "time_remaining": 91,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                4,
+                8
+            ],
+            "observation_after": {
+                "position": [
+                    4,
+                    8
+                ],
+                "battery": 40,
+                "time_remaining": 90,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    4,
+                    8
+                ],
+                "battery": 40,
+                "time_remaining": 90,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 61,
+        "position": [
+            4,
+            8
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "west",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                4,
+                8
+            ],
+            "battery": 40,
+            "time_remaining": 90,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                3,
+                8
+            ],
+            "observation_after": {
+                "position": [
+                    3,
+                    8
+                ],
+                "battery": 39,
+                "time_remaining": 89,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    3,
+                    8
+                ],
+                "battery": 39,
+                "time_remaining": 89,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 62,
+        "position": [
+            3,
+            8
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "west",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                3,
+                8
+            ],
+            "battery": 39,
+            "time_remaining": 89,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                2,
+                8
+            ],
+            "observation_after": {
+                "position": [
+                    2,
+                    8
+                ],
+                "battery": 38,
+                "time_remaining": 88,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    2,
+                    8
+                ],
+                "battery": 38,
+                "time_remaining": 88,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 63,
+        "position": [
+            2,
+            8
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                2,
+                8
+            ],
+            "battery": 38,
+            "time_remaining": 88,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                2,
+                9
+            ],
+            "observation_after": {
+                "position": [
+                    2,
+                    9
+                ],
+                "battery": 37,
+                "time_remaining": 87,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    2,
+                    9
+                ],
+                "battery": 37,
+                "time_remaining": 87,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 64,
+        "position": [
+            2,
+            9
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                2,
+                9
+            ],
+            "battery": 37,
+            "time_remaining": 87,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                3,
+                9
+            ],
+            "observation_after": {
+                "position": [
+                    3,
+                    9
+                ],
+                "battery": 36,
+                "time_remaining": 86,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    3,
+                    9
+                ],
+                "battery": 36,
+                "time_remaining": 86,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 65,
+        "position": [
+            3,
+            9
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                3,
+                9
+            ],
+            "battery": 36,
+            "time_remaining": 86,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                4,
+                9
+            ],
+            "observation_after": {
+                "position": [
+                    4,
+                    9
+                ],
+                "battery": 35,
+                "time_remaining": 85,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    4,
+                    9
+                ],
+                "battery": 35,
+                "time_remaining": 85,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 66,
+        "position": [
+            4,
+            9
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Move toward the nearest possible EVE location."
+        },
+        "reason": "Move toward the nearest possible EVE location.",
+        "observation": {
+            "position": [
+                4,
+                9
+            ],
+            "battery": 35,
+            "time_remaining": 85,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                5,
+                9
+            ],
+            "observation_after": {
+                "position": [
+                    5,
+                    9
+                ],
+                "battery": 34,
+                "time_remaining": 84,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    5,
+                    9
+                ],
+                "battery": 34,
+                "time_remaining": 84,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 67,
+        "position": [
+            5,
+            9
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Investigate a remaining possible EVE location: (6, 9)"
+        },
+        "reason": "Investigate a remaining possible EVE location: (6, 9)",
+        "observation": {
+            "position": [
+                5,
+                9
+            ],
+            "battery": 34,
+            "time_remaining": 84,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                6,
+                9
+            ],
+            "observation_after": {
+                "position": [
+                    6,
+                    9
+                ],
+                "battery": 33,
+                "time_remaining": 83,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    6,
+                    9
+                ],
+                "battery": 33,
+                "time_remaining": 83,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 68,
+        "position": [
+            6,
+            9
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Investigate a remaining possible EVE location: (7, 9)"
+        },
+        "reason": "Investigate a remaining possible EVE location: (7, 9)",
+        "observation": {
+            "position": [
+                6,
+                9
+            ],
+            "battery": 33,
+            "time_remaining": 83,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                7,
+                9
+            ],
+            "observation_after": {
+                "position": [
+                    7,
+                    9
+                ],
+                "battery": 32,
+                "time_remaining": 82,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    7,
+                    9
+                ],
+                "battery": 32,
+                "time_remaining": 82,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 69,
+        "position": [
+            7,
+            9
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Investigate a remaining possible EVE location: (7, 8)"
+        },
+        "reason": "Investigate a remaining possible EVE location: (7, 8)",
+        "observation": {
+            "position": [
+                7,
+                9
+            ],
+            "battery": 32,
+            "time_remaining": 82,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                7,
+                8
+            ],
+            "observation_after": {
+                "position": [
+                    7,
+                    8
+                ],
+                "battery": 31,
+                "time_remaining": 81,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    7,
+                    8
+                ],
+                "battery": 31,
+                "time_remaining": 81,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 70,
+        "position": [
+            7,
+            8
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Investigate a remaining possible EVE location: (8, 8)"
+        },
+        "reason": "Investigate a remaining possible EVE location: (8, 8)",
+        "observation": {
+            "position": [
+                7,
+                8
+            ],
+            "battery": 31,
+            "time_remaining": 81,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                8,
+                8
+            ],
+            "observation_after": {
+                "position": [
+                    8,
+                    8
+                ],
+                "battery": 30,
+                "time_remaining": 80,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    8,
+                    8
+                ],
+                "battery": 30,
+                "time_remaining": 80,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 71,
+        "position": [
+            8,
+            8
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "south",
+            "reason": "Investigate a remaining possible EVE location: (8, 9)"
+        },
+        "reason": "Investigate a remaining possible EVE location: (8, 9)",
+        "observation": {
+            "position": [
+                8,
+                8
+            ],
+            "battery": 30,
+            "time_remaining": 80,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                8,
+                9
+            ],
+            "observation_after": {
+                "position": [
+                    8,
+                    9
+                ],
+                "battery": 29,
+                "time_remaining": 79,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    8,
+                    9
+                ],
+                "battery": 29,
+                "time_remaining": 79,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 72,
+        "position": [
+            8,
+            9
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "east",
+            "reason": "Investigate a remaining possible EVE location: (9, 9)"
+        },
+        "reason": "Investigate a remaining possible EVE location: (9, 9)",
+        "observation": {
+            "position": [
+                8,
+                9
+            ],
+            "battery": 29,
+            "time_remaining": 79,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                9,
+                9
+            ],
+            "observation_after": {
+                "position": [
+                    9,
+                    9
+                ],
+                "battery": 28,
+                "time_remaining": 78,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    9,
+                    9
+                ],
+                "battery": 28,
+                "time_remaining": 78,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 73,
+        "position": [
+            9,
+            9
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Investigate a remaining possible EVE location: (9, 8)"
+        },
+        "reason": "Investigate a remaining possible EVE location: (9, 8)",
+        "observation": {
+            "position": [
+                9,
+                9
+            ],
+            "battery": 28,
+            "time_remaining": 78,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                9,
+                8
+            ],
+            "observation_after": {
+                "position": [
+                    9,
+                    8
+                ],
+                "battery": 27,
+                "time_remaining": 77,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    9,
+                    8
+                ],
+                "battery": 27,
+                "time_remaining": 77,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 74,
+        "position": [
+            9,
+            8
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Investigate a remaining possible EVE location: (9, 7)"
+        },
+        "reason": "Investigate a remaining possible EVE location: (9, 7)",
+        "observation": {
+            "position": [
+                9,
+                8
+            ],
+            "battery": 27,
+            "time_remaining": 77,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                9,
+                7
+            ],
+            "observation_after": {
+                "position": [
+                    9,
+                    7
+                ],
+                "battery": 26,
+                "time_remaining": 76,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    9,
+                    7
+                ],
+                "battery": 26,
+                "time_remaining": 76,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 75,
+        "position": [
+            9,
+            7
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Investigate a remaining possible EVE location: (9, 6)"
+        },
+        "reason": "Investigate a remaining possible EVE location: (9, 6)",
+        "observation": {
+            "position": [
+                9,
+                7
+            ],
+            "battery": 26,
+            "time_remaining": 76,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                9,
+                6
+            ],
+            "observation_after": {
+                "position": [
+                    9,
+                    6
+                ],
+                "battery": 25,
+                "time_remaining": 75,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    9,
+                    6
+                ],
+                "battery": 25,
+                "time_remaining": 75,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 76,
+        "position": [
+            9,
+            6
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Investigate a remaining possible EVE location: (9, 5)"
+        },
+        "reason": "Investigate a remaining possible EVE location: (9, 5)",
+        "observation": {
+            "position": [
+                9,
+                6
+            ],
+            "battery": 25,
+            "time_remaining": 75,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                9,
+                5
+            ],
+            "observation_after": {
+                "position": [
+                    9,
+                    5
+                ],
+                "battery": 24,
+                "time_remaining": 74,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    9,
+                    5
+                ],
+                "battery": 24,
+                "time_remaining": 74,
+                "discovered_clues": [],
+                "eve_found": false
+            }
+        }
+    },
+    {
+        "step": 77,
+        "position": [
+            9,
+            5
+        ],
+        "decision": {
+            "action": "move",
+            "direction": "north",
+            "reason": "Investigate a remaining possible EVE location: (9, 4)"
+        },
+        "reason": "Investigate a remaining possible EVE location: (9, 4)",
+        "observation": {
+            "position": [
+                9,
+                5
+            ],
+            "battery": 24,
+            "time_remaining": 74,
+            "discovered_clues": [],
+            "eve_found": false,
+            "signal_detected": null,
+            "position_after": [
+                9,
+                4
+            ],
+            "observation_after": {
+                "position": [
+                    9,
+                    4
+                ],
+                "battery": 23,
+                "time_remaining": 73,
+                "discovered_clues": [],
+                "eve_found": true
+            }
+        },
+        "result": {
+            "success": true,
+            "message": "Movement completed.",
+            "observation": {
+                "position": [
+                    9,
+                    4
+                ],
+                "battery": 23,
+                "time_remaining": 73,
+                "discovered_clues": [],
+                "eve_found": true
+            }
+        }
+    }
+]
