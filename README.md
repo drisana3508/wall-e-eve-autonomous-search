@@ -48,5 +48,3 @@ These are observed results for the tested seed ranges and do not guarantee succe
 ## Documentation
 The final project report and graphs should be added to the `reports/` folder.
 
-## Contributors
-Add your team members' names here.
